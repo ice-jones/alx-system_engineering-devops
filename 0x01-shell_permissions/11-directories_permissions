@@ -1,2 +1,2 @@
 #!/bin/bash
-find .-type d -exec chimod a+rx {}+
+chimod a+rx {}+

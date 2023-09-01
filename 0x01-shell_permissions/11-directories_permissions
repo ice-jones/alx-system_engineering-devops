@@ -1,2 +1,2 @@
 #!/bin/bash
-chimod a+rx {}+
+find .-type d -exec chmod a+rx {}+
